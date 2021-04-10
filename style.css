@@ -5,13 +5,16 @@
   background-color: #0099ff80;
 }
 
-.pendahuluan,
-.pencegahan {
+.pendahuluan, .penilaian {
   background-color:#0099ff80;
 }
 
-.sumber {
-  background-color: ##0099ff;
+footer {
+  background-color: #0099ff;
+}
+
+.paragraf-khusus {
+  text-indent:6%; text-align: justify;
 }
 
 .dzaky {
