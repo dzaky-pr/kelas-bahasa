@@ -1,9 +1,8 @@
 .jumbotron {
   padding-top: 5rem;
-  background-color: #0099ff80;
 }
 
-.pendahuluan, .penilaian {
+.pendahuluan, .penilaian, .main-page {
   background-color:#0099ff80;
 }
 
