@@ -1,4 +1,4 @@
-disable cut copy paste
+//disable cut copy paste
 $(document).ready(function() {
 	$('body').bind('cut copy paste', function (e) {
 		e.preventDefault();
